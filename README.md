@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Offensive%20Security-red?style=flat-square" alt="Offensive Security" />
   <img src="https://img.shields.io/badge/Terrain-Bug%20Bounty%20%26%20CTF-black?style=flat-square" alt="Bug Bounty et CTF" />
-  <img src="https://img.shields.io/github/followers/pepperhot?style=flat-square&label=Followers&color=blueviolet" alt="Followers" />
 </p>
 
 ---
@@ -35,6 +34,10 @@
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="Hack The Box" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> 
+  <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" /> 
+  <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> 
+  <img src="https://img.shields.io/badge/Modbus-TCP%2FRTU-1f6feb?style=flat-square" alt="Modbus TCP/RTU" />
 </p>
 
 ### Projets en vedette
@@ -45,7 +48,7 @@
 | [netguard](https://github.com/pepperhot/netguard) | Scanner de vulnérabilités web / audit |
 | [PHP2SHELL](https://github.com/pepperhot/PHP2SHELL) | Bulletin de sécurité + outil d'audit read-only sur deux CVE PHP critiques (RCE pré-auth, CVSS 9,2) |
 | [deutch-local](https://github.com/pepperhot/deutch-local) | Jeu de cartes multijoueur en réseau local (client/serveur Python) |
-| [BrasRobot](https://github.com/pepperhot/BrasRobot) | Lab IoT/OT — bras robot ESP32 : interface web 3D, MQTT, Modbus TCP/RTU <br/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> <img src="https://img.shields.io/badge/Modbus-TCP%2FRTU-1f6feb?style=flat-square" alt="Modbus TCP/RTU" /> |
+| [BrasRobot](https://github.com/pepperhot/BrasRobot) | Lab IoT/OT — bras robot ESP32 : interface web 3D, MQTT, Modbus TCP/RTU <br/> |
 ---
 
 <p align="center"><sub>Tout mon travail offensif vise exclusivement des cibles autorisées : bug bounty, CTF, labs.</sub></p>
