@@ -60,12 +60,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pepperhot&theme=tokyo-night&hide_border=true&area=true" alt="Graphe d'activité" />
 </p>
 
-### Me contacter
-
-<!-- Remplace les placeholders par tes vrais liens -->
-- LinkedIn — *(à compléter)*
-- YesWeHack — *(ton profil hunter)*
-
 ---
 
 <p align="center"><sub>Tout mon travail offensif vise exclusivement des cibles autorisées : bug bounty, CTF, labs.</sub></p>
