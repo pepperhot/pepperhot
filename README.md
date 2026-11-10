@@ -45,6 +45,7 @@
 | [netguard](https://github.com/pepperhot/netguard) | Scanner de vulnérabilités web / audit |
 | [PHP2SHELL](https://github.com/pepperhot/PHP2SHELL) | Bulletin de sécurité + outil d'audit read-only sur deux CVE PHP critiques (RCE pré-auth, CVSS 9,2) |
 | [deutch-local](https://github.com/pepperhot/deutch-local) | Jeu de cartes multijoueur en réseau local (client/serveur Python) |
+| [BrasRobot](https://github.com/pepperhot/BrasRobot) | Lab IoT/OT — bras robot ESP32 : interface web 3D, MQTT, Modbus TCP/RTU <br/> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /> <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" /> <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" alt="MQTT" /> <img src="https://img.shields.io/badge/Modbus-TCP%2FRTU-1f6feb?style=flat-square" alt="Modbus TCP/RTU" /> |
 ---
 
 <p align="center"><sub>Tout mon travail offensif vise exclusivement des cibles autorisées : bug bounty, CTF, labs.</sub></p>
