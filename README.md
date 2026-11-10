@@ -43,23 +43,6 @@
 |---|---|
 | [cyber-hunt-toolkit](https://github.com/pepperhot/cyber-hunt-toolkit) | Flotte de 31 subagents de bug bounty — scope-gated, preuve minimale non destructive. `MIT` |
 | [netguard](https://github.com/pepperhot/netguard) | Scanner de vulnérabilités web / audit |
-| [writeUp-HACK-THE-BOX](https://github.com/pepperhot/writeUp-HACK-THE-BOX) | Mes write-ups Hack The Box |
-
-### Statistiques
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pepperhot&show_icons=true&hide_border=true&theme=tokyonight" alt="Stats GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepperhot&layout=compact&hide_border=true&theme=tokyonight" alt="Langages les plus utilisés" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=pepperhot&theme=tokyonight&hide_border=true" alt="Streak de contributions" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pepperhot&theme=tokyo-night&hide_border=true&area=true" alt="Graphe d'activité" />
-</p>
-
 ---
 
 <p align="center"><sub>Tout mon travail offensif vise exclusivement des cibles autorisées : bug bounty, CTF, labs.</sub></p>
