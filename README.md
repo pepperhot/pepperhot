@@ -43,6 +43,8 @@
 |---|---|
 | [cyber-hunt-toolkit](https://github.com/pepperhot/cyber-hunt-toolkit) | Flotte de 31 subagents de bug bounty — scope-gated, preuve minimale non destructive. `MIT` |
 | [netguard](https://github.com/pepperhot/netguard) | Scanner de vulnérabilités web / audit |
+| [PHP2SHELL](https://github.com/pepperhot/PHP2SHELL) | Bulletin de sécurité + outil d'audit read-only sur deux CVE PHP critiques (RCE pré-auth, CVSS 9,2) |
+| [deutch-local](https://github.com/pepperhot/deutch-local) | Jeu de cartes multijoueur en réseau local (client/serveur Python) |
 ---
 
 <p align="center"><sub>Tout mon travail offensif vise exclusivement des cibles autorisées : bug bounty, CTF, labs.</sub></p>
